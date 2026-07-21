@@ -18,6 +18,10 @@ A fun Python project that interacts with a fictional Gotham City API to retrieve
 - License  
 - Author  
 
+Added files 7-21-26
+requirements.txt
+batmanAPI.py
+docs/release_notes.md
 
 ## About the Project
 
