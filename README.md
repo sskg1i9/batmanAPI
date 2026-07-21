@@ -56,7 +56,11 @@ The app sends a request to a fictional API and displays results in the terminal.
 
     python batmanAPI.py
 
+## Future Ideas
 
+- Gotham weather  
+- Alfred assistant  
+- Bat-Signal tracker  
 ## Example Output
 
     Welcome to Gotham City Data Terminal
